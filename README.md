@@ -4,3 +4,6 @@
 
 ### 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=whiteleaf7&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whiteleaf7&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiteleaf7&theme=github)
